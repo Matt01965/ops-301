@@ -30,3 +30,8 @@ cp "$origin_file" "$destination_file"
 echo "We copied the $origin_file to the new $destination_file"
 
 # End
+
+# Sources
+# Chat GPT
+# https://google.github.io/styleguide/shellguide.html
+# https://github.com/codefellows/seattle-ops-301d10/blob/main/class-02/challenges/DEMO.md
