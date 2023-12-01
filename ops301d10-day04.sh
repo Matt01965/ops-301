@@ -42,3 +42,6 @@ while true; do
         read -p "Press Enter to continue"
     fi
 done
+
+# CHAT GPT Saved me immensely on this assignment this was the hardest challenge we have had yet honestly since we didnt review it in class I had to wing it.
+# End
