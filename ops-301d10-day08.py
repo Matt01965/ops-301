@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Script Name:                  ops301d8-day08
+# Script Name:                  Python Collections
 # Author:                       Matthew Earles  
 # Date of latest revision:      12/06/2023
 # Purpose:                      Practice python lists and slicing
