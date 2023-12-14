@@ -1,4 +1,4 @@
-#Not making this file executable lol
+#Not making this file executable
 
 # Script Name:                  Day 14
 # Author:                       Matthew Earles
